@@ -1,3 +1,4 @@
 # code
 my first steps
-by- jaffer
+by jaffer
+my team members
